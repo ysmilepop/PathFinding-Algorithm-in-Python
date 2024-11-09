@@ -8,12 +8,12 @@
  Both algorithms aim to find a path through a grid where obstacles are represented by 1 and free spaces by 0. The search proceeds by considering valid neighbors (up, down, left, right) and avoiding obstacles.
 
 ## 2. Instructions on How to Run the Code
-  ### To run the pathfinding algorithms:
+  To run the pathfinding algorithms:
    ### 1. Make sure you have Python installed on your system.
    ### 2. Steps to Run:
    * Clone or download the repository.
    * Navigate to the folder where the script is located using a terminal or command prompt
-   #### * Run the script using
+   ####  * Run the script using
      python main.py
    ### The program will:
    *Execute both the Greedy Best-First Search and A Search* algorithms.
