@@ -13,7 +13,7 @@
    ### 2. Steps to Run:
    * Clone or download the repository.
    * Navigate to the folder where the script is located using a terminal or command prompt
-   ####  * Run the script using
+   #### Run the script using
      python main.py
    ### The program will:
    *Execute both the Greedy Best-First Search and A Search* algorithms.
