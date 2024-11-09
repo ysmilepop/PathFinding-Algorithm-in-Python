@@ -16,7 +16,7 @@
    #### Run the script using
      python main.py
    ### The program will:
-   *Execute both the Greedy Best-First Search and A Search* algorithms.
+   * Execute both the Greedy Best-First Search and A Search* algorithms.
    * Print the paths found by each algorithm (if a path exists).
    * Display the time taken for each algorithm to run.
    * Compare the performance and path quality of both algorithms.
