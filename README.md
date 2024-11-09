@@ -1,5 +1,5 @@
 # CSEG LAB EXAM
-1. Overview of the Algorithms Implemented
+#1. Overview of the Algorithms Implemented
 This project implements two popular pathfinding algorithms to find the shortest path between a start and goal point on a grid:
   Greedy Best-First Search (GBFS):
     - This algorithm uses a heuristic to select the next node based only on the estimated distance to the goal, without considering the path cost.
@@ -7,7 +7,7 @@ This project implements two popular pathfinding algorithms to find the shortest 
     - A* is a refined algorithm that combines the actual cost to reach a node and the heuristic estimate to the goal, unlike GBFS, which only uses the heuristic.
 Both algorithms aim to find a path through a grid where obstacles are represented by 1 and free spaces by 0. The search proceeds by considering valid neighbors (up, down, left, right) and avoiding obstacles.
 
-2. Instructions on How to Run the Code
+#2. Instructions on How to Run the Code
 To run the pathfinding algorithms:
    1. Make sure you have Python installed on your system.
    2. Steps to Run:
